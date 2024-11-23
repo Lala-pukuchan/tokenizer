@@ -9,7 +9,7 @@ contract Token42 is ERC20, Ownable {
     // 初期供給量: 1,000,000トークン (小数点以下18桁)
     uint256 private constant INITIAL_SUPPLY = 1_000_000 * 10**18;
 
-    constructor() ERC20("Token42", "TK42") {
+    constructor() ERC20("Token42", "TK42") Ownable(msg.sender) {
         // トークンの初期供給をコントラクトデプロイヤーに割り当てる
         _mint(msg.sender, INITIAL_SUPPLY);
     }
