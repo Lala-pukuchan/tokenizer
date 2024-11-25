@@ -71,3 +71,13 @@ The token is deployed on the **Ethereum testnet (Goerli)** to avoid costs associ
 - **Remix IDE**: [Remix](https://remix.ethereum.org/)
 
 ---
+
+## Video
+1. [Installing metamask and creating wallet](https://youtu.be/CV3nCcqctPo)
+2. [Choose Testnet in metamask](https://youtu.be/kgtdh-K0aMc)
+3. [Compile token on Remix](https://youtu.be/ezlvPnSbmlI)
+4. [Connect Remix with wallet](https://youtu.be/KbsFgpcILuw)
+5. [Get Token for Gas fee](https://youtu.be/hfF-7_96oCw)
+6. [Deploy Contract](https://youtu.be/VATCpPHfI6E)
+8. [Register Etherscan](https://youtu.be/7oEPm3b59IQ)
+9. [Verify Contract](https://youtu.be/kVicAyvB_H8)
